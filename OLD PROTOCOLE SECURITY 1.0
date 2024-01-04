@@ -1,0 +1,20 @@
+{
+    "0": {
+        "client_id": "jSEaPK4FIe1X9i5MXAgLR2KQET",
+        "secret_key": "2vqGSEllSA-ESFiPE8Mad-4TxAIrzRKdq_xKDxDE2gDJT",
+        "access_level": "Diamond",
+        "script_path": "client_safe\\client_758.py",
+        "creation_date": "2024-01-02T09:10:30.020356",
+        "last_communication": "2024-01-02T09:29:37.231961",
+        "expiration": "2025-09-08T14:21:14.129537",
+        "version_key": "1.0",
+        "message_count": 638,
+        "attempts": 0,
+        "client_status": true,
+        "lockout_until": null,
+        "client_ip": null,
+        "hwid": null,
+        "device_info": null,
+        "last_hwid_check": null
+    }
+}
