@@ -32,7 +32,7 @@ For support, queries, or contributions, please reach out through:
 
 ## License
 
-This project is licensed under [LICENSE](https://raw.githubusercontent.com/Jodis974/website-endpoint/main/LICENSE) - see the LICENSE file for details.
+This project is licensed under [LICENSE](https://github.com/Jodis974/website-endpoint/blob/main/LICENSE.md) - see the LICENSE file for details.
 
 ## Disclaimer
 
