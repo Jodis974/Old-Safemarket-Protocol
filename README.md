@@ -20,6 +20,9 @@ SafeMarket Client-Server System is designed for secure and efficient communicati
 - Use the client application to send requests to the server.
 - Monitor the server application for incoming requests and responses.
 
+### Presentation
+[Watch Now](8mb.video-ot9-1LYt0ANX.mp4)
+
 ## Support and Contribution
 
 For support, queries, or contributions, please reach out through:
@@ -29,7 +32,7 @@ For support, queries, or contributions, please reach out through:
 
 ## License
 
-This project is licensed under www.safemarket.xyz/ - see the LICENSE file for details.
+This project is licensed under [LICENSE](https://raw.githubusercontent.com/Jodis974/website-endpoint/main/LICENSE) - see the LICENSE file for details.
 
 ## Disclaimer
 
